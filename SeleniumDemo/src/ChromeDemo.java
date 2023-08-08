@@ -17,7 +17,7 @@ public class ChromeDemo {
 	//driver.get("https://www.gmail.com");
 	//driver.manage().window().maximize();
 	//ChromeDriver driver = new ChromeDriver();
-		//RemoteWebDriver driver = new ChromeDriver();
+		RemoteWebDriver driver = new ChromeDriver();
 		
 	
 	
